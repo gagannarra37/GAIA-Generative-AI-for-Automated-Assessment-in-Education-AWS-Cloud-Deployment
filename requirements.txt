@@ -1,0 +1,27 @@
+# GAIA Project Dependencies
+# Team: Akshra Reddy, Gagan Chowdary, Rakesh
+
+# Web Framework
+streamlit==1.28.0
+fastapi==0.104.1
+uvicorn==0.24.0
+
+# AI & Machine Learning
+openai==1.3.0
+
+# Database
+psycopg2-binary==2.9.9
+
+# Authentication & Security
+python-jose[cryptography]==3.3.0
+passlib[bcrypt]==1.7.4
+PyJWT==2.8.0
+
+# AWS Services
+boto3==1.28.0
+
+# Utilities
+python-dotenv==1.0.0
+pydantic==2.5.0
+requests==2.31.0
+python-multipart==0.0.6
